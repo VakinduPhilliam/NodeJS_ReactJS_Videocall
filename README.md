@@ -8,11 +8,9 @@ Simply send your friend the app’s auto-generated unique ID to make the call.
 Every time you open a new tab, the server gives you a totally different unique ID.  
 
 Technologies Deployed:  
-
 Frontend Technologies: React, WebRTC, SCSS, webpack2.   
 
 Backend Technologies: 
-
 NodeJS,  Express,  Socket.IO  
 
 Best Format for Video Display:  
